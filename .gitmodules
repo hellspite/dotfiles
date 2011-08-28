@@ -31,3 +31,6 @@
 [submodule "vim/bundle/piv"]
 	path = vim/bundle/piv
 	url = git://github.com/spf13/PIV.git
+[submodule "vim/bundle/symfony"]
+	path = vim/bundle/symfony
+	url = git://github.com/soh335/vim-symfony.git
