@@ -82,6 +82,9 @@ nmap ;img i<img src="" alt="" border="0" /><Esc>bbbbbbbgei
 
 nmap ;link i<a href=""></a><Esc>F<i
 
+" Riarrangiamento finestre
+map ;wa <C-W>v <C-W>l <C-W>110\| <C-W>s <C-W>h <C-W>s <C-W>l
+
 " Settaggi per la ricerca
 set hlsearch
 set wrapscan

@@ -1,0 +1,15 @@
+Installation:
+
+    git clone git://github.com/hellspite/dotfiles.git ~
+
+Create symlinks:
+
+    ln -s ~/dotfiles/vim ~/.vim
+    ln -s ~/dotfiles/vim/vimrc ~/.vimrc
+    ln -s ~/dotfile/vim/gvimrc ~/.gvimrc
+
+Switch to the `~/dotfiles` directory, and fetch submodules:
+
+    cd ~/dotfiles
+    git submodule init
+    git submodule update
