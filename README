@@ -1,6 +1,6 @@
 Installation:
 
-    git clone git://github.com/hellspite/dotfiles.git ~
+    git clone git://github.com/hellspite/dotfiles.git
 
 Create symlinks:
 
