@@ -111,6 +111,9 @@ set virtualedit=all
 
 " Numero di caratteri ammessi per ogni linea (a capo automatico)
 set textwidth=80
+set wm=6
+set wrap
+set linebreak
 
 " Completamento del testo
 set complete=.,w,b,t
