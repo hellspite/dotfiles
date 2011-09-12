@@ -112,14 +112,17 @@ set virtualedit=all
 " Numero di caratteri ammessi per ogni linea (a capo automatico)
 set textwidth=80
 set wm=6
-set wrap
 set linebreak
+set wrap
 
 " Completamento del testo
 set complete=.,w,b,t
 
 " Fold
 set foldcolumn=1
+
+" DelimitMate
+let delimitMate_excluded_ft = "yml, twig"
 
 filetype plugin indent on
 colorscheme desert
