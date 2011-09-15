@@ -122,7 +122,7 @@ set complete=.,w,b,t
 set foldcolumn=1
 
 " DelimitMate
-let delimitMate_excluded_ft = "yml, twig"
+let delimitMate_excluded_ft = "yml,twig"
 
 filetype plugin indent on
 colorscheme desert
