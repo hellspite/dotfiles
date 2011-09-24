@@ -25,9 +25,6 @@
 [submodule "vim/bundle/twig"]
 	path = vim/bundle/twig
 	url = git://github.com/beyondwords/vim-twig.git
-[submodule "vim/bundle/piv"]
-	path = vim/bundle/piv
-	url = git://github.com/spf13/PIV.git
 [submodule "vim/bundle/symfony"]
 	path = vim/bundle/symfony
 	url = git://github.com/soh335/vim-symfony.git
