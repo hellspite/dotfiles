@@ -28,3 +28,6 @@
 [submodule "vim/bundle/symfony"]
 	path = vim/bundle/symfony
 	url = git://github.com/soh335/vim-symfony.git
+[submodule "vim/bundle/delimitmate"]
+	path = vim/bundle/delimitmate
+	url = git://github.com/Raimondi/delimitMate.git
