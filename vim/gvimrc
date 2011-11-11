@@ -20,6 +20,9 @@ if has("syntax")
   syntax on
 endif
 
+" Twig syntax
+au BufRead,BufNewFile *.twig setf htmljinja
+
 " If using a dark background within the editing area and syntax highlighting
 " turn on this option as well
 set background=dark
