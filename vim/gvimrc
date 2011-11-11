@@ -21,7 +21,8 @@ if has("syntax")
 endif
 
 " Twig syntax
-au BufRead,BufNewFile *.twig setf htmljinja
+au BufRead,BufNewFile *.twig set filetype=twig
+au! Syntax newlang source $VIM/syntax/twig.vim
 
 " If using a dark background within the editing area and syntax highlighting
 " turn on this option as well
