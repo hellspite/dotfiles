@@ -31,3 +31,6 @@
 [submodule "vim/bundle/delimitmate"]
 	path = vim/bundle/delimitmate
 	url = git://github.com/Raimondi/delimitMate.git
+[submodule "vim/bundle/phpfolding"]
+	path = vim/bundle/phpfolding
+	url = git://github.com/vim-scripts/phpfolding.vim.git
