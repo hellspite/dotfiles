@@ -126,7 +126,7 @@ set complete=.,w,b,t
 set foldcolumn=1
 
 filetype plugin indent on
-colorscheme desert
+colorscheme inkpot
 set softtabstop=4
 set expandtab
 set shiftwidth=4
