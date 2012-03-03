@@ -40,3 +40,6 @@
 [submodule "vim/bundle/sparkup"]
 	path = vim/bundle/sparkup
 	url = git://github.com/kogakure/vim-sparkup.git
+[submodule "vim/bundle/vim-symfony"]
+	path = vim/bundle/vim-symfony
+	url = git://github.com/docteurklein/vim-symfony.git
