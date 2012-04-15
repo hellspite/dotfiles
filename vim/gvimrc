@@ -142,6 +142,9 @@ map <leader>td <Plug>TaskList
 " Gundo
 map <leader>g :GundoToggle<CR>
 
+" Configurazione pyflakes
+let g:pyflakes_use_quickfix = 0
+
 " Symfony2 jump from controller to template
 " first set path
 set path+=**

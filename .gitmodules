@@ -52,3 +52,6 @@
 [submodule "vim/bundle/gundo"]
 	path = vim/bundle/gundo
 	url = https://github.com/sjl/gundo.vim.git
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
