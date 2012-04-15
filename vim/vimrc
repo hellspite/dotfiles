@@ -148,6 +148,9 @@ let g:pep8_map='<leader>8'
 map <leader>j :RopeGotoDefinition<CR>
 map <leader>r :RopeRename<CR>
 
+" Ack
+nmap <leader>a <Esc>:Ack!
+
 " Symfony2 jump from controller to template
 " first set path
 set path+=**
