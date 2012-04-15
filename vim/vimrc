@@ -144,6 +144,10 @@ let g:pyflakes_use_quickfix = 0
 " PEP8
 let g:pep8_map='<leader>8'
 
+" Ropevim
+map <leader>j :RopeGotoDefinition<CR>
+map <leader>r :RopeRename<CR>
+
 " Symfony2 jump from controller to template
 " first set path
 set path+=**
